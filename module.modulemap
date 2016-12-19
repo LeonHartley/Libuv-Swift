@@ -1,0 +1,5 @@
+module Libuv [system] {
+	umbrella header "Libuv.h"
+	link "uv"
+	export *
+}
